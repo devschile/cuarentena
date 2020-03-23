@@ -3,68 +3,81 @@
 ## Servicios de delivery Santiago:
 
 ###Verduras 🥒
-Frutonchile.cl
-Vasma.cl
-Huertosdelchef.cl
-Huertasadeo.cl
-Elnegrito.cl
-Mbgreen.cl
-Feriaadomicilio.cl/pedidos
-Huertosdelchef.cl
-@campodebarrio
-@despensapedidos
-@todopaltas
-Huevos🥚
-Huevoslacastellana.com
-@agricolachada
-Frutos Secos🥜🌰
-@tostaduria_tomasso
-Carne🍖
-Carnesproductor.cl
-Carnesmanada.com
-Curacaribs
-@costillasypunto
+
+* Frutonchile.cl
+* Vasma.cl
+* Huertosdelchef.cl
+* Huertasadeo.cl
+* Elnegrito.cl
+* Mbgreen.cl
+* Feriaadomicilio.cl/pedidos
+* Huertosdelchef.cl
+* @campodebarrio
+* @despensapedidos
+* @todopaltas
+* Huevos🥚
+* Huevoslacastellana.com
+* @agricolachada
+* Frutos Secos🥜🌰
+* @tostaduria_tomasso
+* Carne🍖
+* Carnesproductor.cl
+* Carnesmanada.com
+* Curacaribs
+* @costillasypunto
 
 ###Pollo🍖
-Tiendaonline.tinajacura.com
+
+* Tiendaonline.tinajacura.com
 
 ###Pescado🐠
-Fbx.cl
-@antarseafood
-Delmuelle.cl
-@seadelik
-Conagallas.cl
+
+* Fbx.cl
+* @antarseafood
+* Delmuelle.cl
+* @seadelik
+* Conagallas.cl
 
 ###Barras proteína.🍫
-Nutracom.cl
-@yourgoalnutrition
+
+* Nutracom.cl
+* @yourgoalnutrition
 
 ###Charcuteria 🥓
-@losmora.charcuteria
+
+* @losmora.charcuteria
 
 ###Plant based/vegano 🥦
-Protteina.com
+
+* Protteina.com
 
 ###Queques 🧁
-@bolos.brasil
+
+* @bolos.brasil
 
 ###Copete 🥂
-Supermercadodiez.cl
-Casadelacerveza.cl
-Tandem.wine
+
+* Supermercadodiez.cl
+* Casadelacerveza.cl
+* Tandem.wine
 
 ###Cafe ☕
-Outletdelcafe.cl
+
+* Outletdelcafe.cl
 
 ###Miel 🍜
-@montecarmelocolmenares
+
+* @montecarmelocolmenares
 
 ###Productos de limpieza/aseo 🧹
-Cleanqueen.cl
-Incoludido.cl
+
+* Cleanqueen.cl
+* Incoludido.cl
 
 ###Mascotas🐶
-puntomascotas.cl
+
+* puntomascotas.cl
 
 ###Carbon🥩
-Carboneros.cl
+
+* Carboneros.cl
