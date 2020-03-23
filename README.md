@@ -69,15 +69,15 @@
 
 * @montecarmelocolmenares
 
-###Productos de limpieza/aseo 🧹
+### Productos de limpieza/aseo 🧹
 
 * Cleanqueen.cl
 * Incoludido.cl
 
-###Mascotas🐶
+### Mascotas🐶
 
 * puntomascotas.cl
 
-###Carbon🥩
+### Carbón🥩
 
 * Carboneros.cl
