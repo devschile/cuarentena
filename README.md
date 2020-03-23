@@ -15,12 +15,12 @@
 * @campodebarrio
 * @despensapedidos
 * @todopaltas
-* Huevos🥚
+### Huevos🥚
 * Huevoslacastellana.com
 * @agricolachada
-* Frutos Secos🥜🌰
+### Frutos Secos🥜🌰
 * @tostaduria_tomasso
-* Carne🍖
+### Carne🍖
 * Carnesproductor.cl
 * Carnesmanada.com
 * Curacaribs
