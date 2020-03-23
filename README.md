@@ -38,34 +38,34 @@
 * @seadelik
 * Conagallas.cl
 
-###Barras proteína.🍫
+### Barras proteína.🍫
 
 * Nutracom.cl
 * @yourgoalnutrition
 
-###Charcuteria 🥓
+### Charcuteria 🥓
 
 * @losmora.charcuteria
 
-###Plant based/vegano 🥦
+### Plant based/vegano 🥦
 
 * Protteina.com
 
-###Queques 🧁
+### Queques 🧁
 
 * @bolos.brasil
 
-###Copete 🥂
+### Copete 🥂
 
 * Supermercadodiez.cl
 * Casadelacerveza.cl
 * Tandem.wine
 
-###Cafe ☕
+### Café ☕
 
 * Outletdelcafe.cl
 
-###Miel 🍜
+### Miel 🍜
 
 * @montecarmelocolmenares
 
