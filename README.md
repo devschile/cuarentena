@@ -12,8 +12,6 @@
 * [Mbgreen.cl](https://mbgreen.cl)
 * [Feriaadomicilio.cl/pedidos](https://feriaadomicilio.cl/pedidos)
 * [Huertosdelchef.cl](https://huertosdelchef.cl)
-* [@campodebarrio](https://www.instagram.com/campodebarrio)
-* [@despensapedidos](https://www.instagram.com/despensapedidos)
 * [@todopaltas](https://www.instagram.com/todopaltas)
 
 ### Huevos 🥚
@@ -39,7 +37,6 @@
 ### Pescado 🐠
 
 * [Fbx.cl](https://fbx.cl)
-* [@antarseafood](https://www.instagram.com/antarseafood)
 * [Delmuelle.cl](https://delmuelle.cl)
 * [@seadelik](https://www.instagram.com/seadelik)
 * [Conagallas.cl](https://conagallas.cl)
