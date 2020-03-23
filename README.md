@@ -2,7 +2,7 @@
 
 ## Servicios de delivery Santiago:
 
-### Verduras 🥒
+### Frutas y Verduras 🥒
 
 * [Frutonchile.cl](https://frutonchile.cl)
 * [Vasma.cl](https://vasma.cl)
@@ -59,7 +59,7 @@
 * [Protteina.com](https://protteina.com)
 * [@labodeguitaverde](https://www.instagram.com/labodeguitaverde)
 
-### Queques 🧁
+### Queques 🍰
 
 * [@bolos.brasil](https://www.instagram.com/bolos.brasil)
 
@@ -69,7 +69,7 @@
 * [Casadelacerveza.cl](https://casadelacerveza.cl)
 * [Tandem.wine](https://tandem.wine)
 
-### Café ☕
+### Café ☕️
 
 * [Outletdelcafe.cl](https://outletdelcafe.cl)
 
@@ -77,7 +77,7 @@
 
 * [@montecarmelocolmenares](https://www.instagram.com/montecarmelocolmenares)
 
-### Productos de limpieza/aseo 🧹
+### Productos de limpieza/aseo 🛀
 
 * [Cleanqueen.cl](https://cleanqueen.cl)
 * [Incoludido.cl](https://incoludido.cl)
