@@ -13,6 +13,8 @@
 * [Feriaadomicilio.cl/pedidos](https://feriaadomicilio.cl/pedidos)
 * [Huertosdelchef.cl](https://huertosdelchef.cl)
 * [@todopaltas](https://www.instagram.com/todopaltas)
+* [@campodebarrio](https://www.instagram.com/campodebarrio/)
+* [@despensapedidos](https://www.instagram.com/despensapedidos/)
 
 ### Huevos 🥚
 
@@ -27,7 +29,7 @@
 
 * [Carnesproductor.cl](https://carnesproductor.cl)
 * [Carnesmanada.com](https://carnesmanada.com)
-* [Curacaribs](https://curacaribs.cl)
+* [Curacaribs.cl](https://curacaribs.cl)
 * [@costillasypunto](https://www.instagram.com/costillasypunto)
 
 ### Pollo 🍖
@@ -62,6 +64,9 @@
 ### Queques 🍰
 
 * [@bolos.brasil](https://www.instagram.com/bolos.brasil)
+* [@dulcemaniachile](https://www.instagram.com/dulcemaniachile)
+* [Saborbrasil.cl](https://saborbrasil.cl/)
+* [Negritobrigadeiros.com](www.negritobrigadeiros.com)
 
 ### Copete 🥂
 
@@ -91,3 +96,14 @@
 ### Carbón 🥩
 
 * [Carboneros.cl](https://carboneros.cl)
+
+### Minimarket 🛒
+
+* [Biroska.cl](https://www.biroska.cl/)
+
+### Pizza 🍕 
+* [Centralpizza.cl](https://www.centralpizza.cl/)
+* [Nolazzi.cl](https://www.nolazzi.cl/)
+
+### Pan de queso 🥞🧀
+* [Grespan.cl](https://www.grespan.cl/)
