@@ -2,7 +2,7 @@
 
 ## Servicios de delivery Santiago:
 
-###Verduras 🥒
+### Verduras 🥒
 
 * Frutonchile.cl
 * Vasma.cl
@@ -26,11 +26,11 @@
 * Curacaribs
 * @costillasypunto
 
-###Pollo🍖
+### Pollo🍖
 
 * Tiendaonline.tinajacura.com
 
-###Pescado🐠
+### Pescado🐠
 
 * Fbx.cl
 * @antarseafood
