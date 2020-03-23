@@ -23,7 +23,7 @@
 
 ### Frutos Secos 🥜🌰
 
-* [@tostaduria_tomasso](tostaduria_https://www.instagram.com/tostaduria_tomasso)
+* [@tostaduria_tomasso](https://www.instagram.com/tostaduria_tomasso)
 
 ### Carne 🍖
 
@@ -56,10 +56,11 @@
 ### Plant based/vegano 🥦
 
 * [Protteina.com](https://protteina.com)
+* [@labodeguitaverde](https://www.instagram.com/labodeguitaverde)
 
 ### Queques 🧁
 
-* [@bolos.brasil](bolos.https://www.instagram.com/bolos.brasil)
+* [@bolos.brasil](https://www.instagram.com/bolos.brasil)
 
 ### Copete 🥂
 
