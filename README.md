@@ -44,6 +44,10 @@
 * [@seadelik](https://www.instagram.com/seadelik)
 * [Conagallas.cl](https://conagallas.cl)
 
+### Pan 🍞
+
+* [Crust](https://www.instagram.com/crust_scl)
+
 ### Barras proteína 🍫
 
 * [Nutracom.cl](https://nutracom.cl)
