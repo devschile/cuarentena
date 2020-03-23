@@ -15,22 +15,28 @@
 * [@campodebarrio](https://www.instagram.com/campodebarrio)
 * [@despensapedidos](https://www.instagram.com/despensapedidos)
 * [@todopaltas](https://www.instagram.com/todopaltas)
-### Huevos🥚
+
+### Huevos 🥚
+
 * [Huevoslacastellana.com](https://huevoslacastellana.com)
 * [@agricolachada](https://www.instagram.com/agricolachada)
-### Frutos Secos🥜🌰
+
+### Frutos Secos 🥜🌰
+
 * [@tostaduria_tomasso](tostaduria_https://www.instagram.com/tostaduria_tomasso)
-### Carne🍖
+
+### Carne 🍖
+
 * [Carnesproductor.cl](https://carnesproductor.cl)
 * [Carnesmanada.com](https://carnesmanada.com)
 * [Curacaribs](https://curacaribs.cl)
 * [@costillasypunto](https://www.instagram.com/costillasypunto)
 
-### Pollo🍖
+### Pollo 🍖
 
 * [Tiendaonline.tinajacura.com](https://tiendaonline.tinajacura.com)
 
-### Pescado🐠
+### Pescado 🐠
 
 * [Fbx.cl](https://fbx.cl)
 * [@antarseafood](https://www.instagram.com/antarseafood)
@@ -38,7 +44,7 @@
 * [@seadelik](https://www.instagram.com/seadelik)
 * [Conagallas.cl](https://conagallas.cl)
 
-### Barras proteína.🍫
+### Barras proteína 🍫
 
 * [Nutracom.cl](https://nutracom.cl)
 * [@yourgoalnutrition](https://www.instagram.com/yourgoalnutrition)
@@ -74,10 +80,12 @@
 * [Cleanqueen.cl](https://cleanqueen.cl)
 * [Incoludido.cl](https://incoludido.cl)
 
-### Mascotas🐶
+### Mascotas 🐶
 
-* [puntomascotas.cl](https://puntomascotas.cl)
+* [PuntoMascotas.cl](https://www.puntomascotas.cl/)
+* [BestForPets.cl](https://bestforpets.cl/tienda/)
+* [TiendaPet.cl](https://www.tiendapet.cl/)
 
-### Carbón🥩
+### Carbón 🥩
 
 * [Carboneros.cl](https://carboneros.cl)
