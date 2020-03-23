@@ -2,7 +2,7 @@
 
 ## Servicios de delivery Santiago:
 
-### Verduras 🥒
+### Frutas y Verduras 🥒
 
 * [Frutonchile.cl](https://frutonchile.cl)
 * [Vasma.cl](https://vasma.cl)
@@ -13,6 +13,8 @@
 * [Feriaadomicilio.cl/pedidos](https://feriaadomicilio.cl/pedidos)
 * [Huertosdelchef.cl](https://huertosdelchef.cl)
 * [@todopaltas](https://www.instagram.com/todopaltas)
+* [@campodebarrio](https://www.instagram.com/campodebarrio/)
+* [@despensapedidos](https://www.instagram.com/despensapedidos/)
 
 ### Huevos 🥚
 
@@ -27,7 +29,7 @@
 
 * [Carnesproductor.cl](https://carnesproductor.cl)
 * [Carnesmanada.com](https://carnesmanada.com)
-* [Curacaribs](https://curacaribs.cl)
+* [Curacaribs.cl](https://curacaribs.cl)
 * [@costillasypunto](https://www.instagram.com/costillasypunto)
 
 ### Pollo 🍖
@@ -59,9 +61,12 @@
 * [Protteina.com](https://protteina.com)
 * [@labodeguitaverde](https://www.instagram.com/labodeguitaverde)
 
-### Queques 🧁
+### Queques 🍰
 
 * [@bolos.brasil](https://www.instagram.com/bolos.brasil)
+* [@dulcemaniachile](https://www.instagram.com/dulcemaniachile)
+* [Saborbrasil.cl](https://saborbrasil.cl/)
+* [Negritobrigadeiros.com](www.negritobrigadeiros.com)
 
 ### Copete 🥂
 
@@ -69,7 +74,7 @@
 * [Casadelacerveza.cl](https://casadelacerveza.cl)
 * [Tandem.wine](https://tandem.wine)
 
-### Café ☕
+### Café ☕️
 
 * [Outletdelcafe.cl](https://outletdelcafe.cl)
 
@@ -77,7 +82,7 @@
 
 * [@montecarmelocolmenares](https://www.instagram.com/montecarmelocolmenares)
 
-### Productos de limpieza/aseo 🧹
+### Productos de limpieza/aseo 🛀
 
 * [Cleanqueen.cl](https://cleanqueen.cl)
 * [Incoludido.cl](https://incoludido.cl)
@@ -91,3 +96,14 @@
 ### Carbón 🥩
 
 * [Carboneros.cl](https://carboneros.cl)
+
+### Minimarket 🛒
+
+* [Biroska.cl](https://www.biroska.cl/)
+
+### Pizza 🍕 
+* [Centralpizza.cl](https://www.centralpizza.cl/)
+* [Nolazzi.cl](https://www.nolazzi.cl/)
+
+### Pan de queso 🥞🧀
+* [Grespan.cl](https://www.grespan.cl/)
