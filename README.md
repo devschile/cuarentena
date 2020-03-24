@@ -17,7 +17,7 @@
 * [@despensapedidos](https://www.instagram.com/despensapedidos/)
 * [@mundoruralpajaritos](https://www.instagram.com/mundoruralpajaritos/)
 * [@labodeguitadelovalledor](https://www.instagram.com/labodeguitadelovalledor/)
-
+ 
 ### Huevos 🥚
 
 * [Huevoslacastellana.com](https://huevoslacastellana.com)
@@ -26,6 +26,9 @@
 ### Frutos Secos 🥜🌰
 
 * [@tostaduria_tomasso](https://www.instagram.com/tostaduria_tomasso)
+* [@thepower_offood](https://instagram.com/thepower_offood)
+* [@riwunsnacks](https://instagram.com/riwunsnacks)
+* [@da.oro](https://instagram.com/da.oro)
 
 ### Carne 🍖
 
@@ -107,10 +110,12 @@
 * [Biroska.cl](https://www.biroska.cl/)
 
 ### Pizza 🍕 
+
 * [Centralpizza.cl](https://www.centralpizza.cl/)
 * [Nolazzi.cl](https://www.nolazzi.cl/)
 
 ### Pan de queso 🥞🧀
+
 * [Grespan.cl](https://www.grespan.cl/)
 
 ---
