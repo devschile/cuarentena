@@ -17,7 +17,7 @@
 * [@despensapedidos](https://www.instagram.com/despensapedidos/)
 * [@mundoruralpajaritos](https://www.instagram.com/mundoruralpajaritos/)
 * [@labodeguitadelovalledor](https://www.instagram.com/labodeguitadelovalledor/)
- 
+
 ### Huevos 🥚
 
 * [Huevoslacastellana.com](https://huevoslacastellana.com)
@@ -109,7 +109,7 @@
 
 * [Biroska.cl](https://www.biroska.cl/)
 
-### Pizza 🍕 
+### Pizza 🍕
 
 * [Centralpizza.cl](https://www.centralpizza.cl/)
 * [Nolazzi.cl](https://www.nolazzi.cl/)
