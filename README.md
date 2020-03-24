@@ -17,11 +17,7 @@
 * [@despensapedidos](https://www.instagram.com/despensapedidos/)
 * [@mundoruralpajaritos](https://www.instagram.com/mundoruralpajaritos/)
 * [@labodeguitadelovalledor](https://www.instagram.com/labodeguitadelovalledor/)
-
-### Despensa
-
-* [@mundoruralpajaritos](https://www.instagram.com/mundoruralpajaritos/)
-
+ 
 ### Huevos 🥚
 
 * [Huevoslacastellana.com](https://huevoslacastellana.com)
@@ -30,6 +26,9 @@
 ### Frutos Secos 🥜🌰
 
 * [@tostaduria_tomasso](https://www.instagram.com/tostaduria_tomasso)
+* [@thepower_offood](https://instagram.com/thepower_offood)
+* [@riwunsnacks](https://instagram.com/riwunsnacks)
+* [@da.oro](https://instagram.com/da.oro)
 
 ### Carne 🍖
 
