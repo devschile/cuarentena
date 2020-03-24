@@ -17,6 +17,10 @@
 * [@despensapedidos](https://www.instagram.com/despensapedidos/)
 * [@labodeguitadelovalledor](https://www.instagram.com/labodeguitadelovalledor/)
 
+### Despensa
+
+* [@mundoruralpajaritos](https://www.instagram.com/mundoruralpajaritos/)
+
 ### Huevos 🥚
 
 * [Huevoslacastellana.com](https://huevoslacastellana.com)
