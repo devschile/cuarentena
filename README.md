@@ -15,6 +15,7 @@
 * [@todopaltas](https://www.instagram.com/todopaltas)
 * [@campodebarrio](https://www.instagram.com/campodebarrio/)
 * [@despensapedidos](https://www.instagram.com/despensapedidos/)
+* [@labodeguitadelovalledor](https://www.instagram.com/labodeguitadelovalledor/)
 
 ### Huevos 🥚
 
@@ -92,6 +93,7 @@
 * [PuntoMascotas.cl](https://www.puntomascotas.cl/)
 * [BestForPets.cl](https://bestforpets.cl/tienda/)
 * [TiendaPet.cl](https://www.tiendapet.cl/)
+* [@dogatpetmarket](https://www.instagram.com/dogatpetmarket) - [web](https://www.dogat.cl)
 
 ### Carbón 🥩
 
