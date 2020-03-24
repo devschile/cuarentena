@@ -15,7 +15,7 @@
 * [@todopaltas](https://www.instagram.com/todopaltas)
 * [@campodebarrio](https://www.instagram.com/campodebarrio/)
 * [@despensapedidos](https://www.instagram.com/despensapedidos/)
-* [#mundoruralpajaritos]: https://www.instagram.com/mundoruralpajaritos/
+* [@mundoruralpajaritos]: https://www.instagram.com/mundoruralpajaritos/
 
 ### Huevos 🥚
 
