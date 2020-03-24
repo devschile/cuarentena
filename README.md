@@ -15,6 +15,7 @@
 * [@todopaltas](https://www.instagram.com/todopaltas)
 * [@campodebarrio](https://www.instagram.com/campodebarrio/)
 * [@despensapedidos](https://www.instagram.com/despensapedidos/)
+* [@mundoruralpajaritos](https://www.instagram.com/mundoruralpajaritos/)
 * [@labodeguitadelovalledor](https://www.instagram.com/labodeguitadelovalledor/)
 
 ### Despensa
@@ -36,6 +37,7 @@
 * [Carnesmanada.com](https://carnesmanada.com)
 * [Curacaribs.cl](https://curacaribs.cl)
 * [@costillasypunto](https://www.instagram.com/costillasypunto)
+* [Cecinas.com](https://www.cecinas.com)
 
 ### Pollo 🍖
 
@@ -60,6 +62,7 @@
 ### Charcuteria 🥓
 
 * [@losmora.charcuteria](https://www.instagram.com/losmora.charcuteria)
+* [Cecinas.com](https://www.cecinas.com)
 
 ### Plant based/vegano 🥦
 
@@ -113,3 +116,7 @@
 
 ### Pan de queso 🥞🧀
 * [Grespan.cl](https://www.grespan.cl/)
+
+---
+
+¿Quieres aportar con un local? envíalo a huemul@devschile.cl
