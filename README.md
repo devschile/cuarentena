@@ -33,6 +33,7 @@
 * [Carnesmanada.com](https://carnesmanada.com)
 * [Curacaribs.cl](https://curacaribs.cl)
 * [@costillasypunto](https://www.instagram.com/costillasypunto)
+* [Cecinas.com](https://www.cecinas.com)
 
 ### Pollo 🍖
 
@@ -57,6 +58,7 @@
 ### Charcuteria 🥓
 
 * [@losmora.charcuteria](https://www.instagram.com/losmora.charcuteria)
+* [Cecinas.com](https://www.cecinas.com)
 
 ### Plant based/vegano 🥦
 
