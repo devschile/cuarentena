@@ -16,6 +16,7 @@
 * [@campodebarrio](https://www.instagram.com/campodebarrio/)
 * [@despensapedidos](https://www.instagram.com/despensapedidos/)
 * [@mundoruralpajaritos](https://www.instagram.com/mundoruralpajaritos/)
+* [@labodeguitadelovalledor](https://www.instagram.com/labodeguitadelovalledor/)
 
 ### Huevos 🥚
 
@@ -93,6 +94,7 @@
 * [PuntoMascotas.cl](https://www.puntomascotas.cl/)
 * [BestForPets.cl](https://bestforpets.cl/tienda/)
 * [TiendaPet.cl](https://www.tiendapet.cl/)
+* [@dogatpetmarket](https://www.instagram.com/dogatpetmarket) - [web](https://www.dogat.cl)
 
 ### Carbón 🥩
 
@@ -109,6 +111,6 @@
 ### Pan de queso 🥞🧀
 * [Grespan.cl](https://www.grespan.cl/)
 
---
+---
 
 ¿Quieres aportar con un local? envíalo a huemul@devschile.cl
