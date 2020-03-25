@@ -67,6 +67,7 @@
 
 * [Protteina.com](https://protteina.com)
 * [@labodeguitaverde](https://www.instagram.com/labodeguitaverde)
+* [@nikol_ivo_caseros](https://www.instagram.com/nikol_ivo_caseros/)
 
 ### Queques 🍰
 
@@ -109,7 +110,7 @@
 
 * [Biroska.cl](https://www.biroska.cl/)
 
-### Pizza 🍕 
+### Pizza 🍕
 
 * [Centralpizza.cl](https://www.centralpizza.cl/)
 * [Nolazzi.cl](https://www.nolazzi.cl/)
