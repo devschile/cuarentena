@@ -15,9 +15,20 @@
 * [@todopaltas](https://www.instagram.com/todopaltas)
 * [@campodebarrio](https://www.instagram.com/campodebarrio/)
 * [@despensapedidos](https://www.instagram.com/despensapedidos/)
-* [@mundoruralpajaritos](https://www.instagram.com/mundoruralpajaritos/)
 * [@labodeguitadelovalledor](https://www.instagram.com/labodeguitadelovalledor/)
 * [@laveguitadekeko](https://www.instagram.com/laveguitadekeko/)
+* [@vega_italia_1850](https://www.instagram.com/vega_italia_1850/)
+
+### Minimarket/Mercaderia/Despensa 🛒
+
+* [Biroska.cl](https://www.biroska.cl/)
+* [@mercaderiaatucasa.cl](https://instagram.com/mercaderiaatucasa.cl)
+* [@mundoruralpajaritos](https://www.instagram.com/mundoruralpajaritos/)
+
+### Productos de limpieza/aseo 🛀
+
+* [Cleanqueen.cl](https://cleanqueen.cl)
+* [Incoludido.cl](https://incoludido.cl)
 
 ### Huevos 🥚
 
@@ -91,11 +102,6 @@
 
 * [@montecarmelocolmenares](https://www.instagram.com/montecarmelocolmenares)
 
-### Productos de limpieza/aseo 🛀
-
-* [Cleanqueen.cl](https://cleanqueen.cl)
-* [Incoludido.cl](https://incoludido.cl)
-
 ### Mascotas 🐶
 
 * [PuntoMascotas.cl](https://www.puntomascotas.cl/)
@@ -106,11 +112,6 @@
 ### Carbón 🥩
 
 * [Carboneros.cl](https://carboneros.cl)
-
-### Minimarket/Mercaderia 🛒
-
-* [Biroska.cl](https://www.biroska.cl/)
-* [@mercaderiaatucasa.cl](https://instagram.com/mercaderiaatucasa.cl)
 
 ### Pizza 🍕
 
