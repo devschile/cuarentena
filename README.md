@@ -106,9 +106,10 @@
 
 * [Carboneros.cl](https://carboneros.cl)
 
-### Minimarket 🛒
+### Minimarket/Mercaderia 🛒
 
 * [Biroska.cl](https://www.biroska.cl/)
+* [@mercaderiaatucasa.cl](https://instagram.com/mercaderiaatucasa.cl)
 
 ### Pizza 🍕
 
