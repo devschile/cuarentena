@@ -25,7 +25,6 @@
 * [@mercaderiaatucasa.cl](https://instagram.com/mercaderiaatucasa.cl)
 * [@mundoruralpajaritos](https://www.instagram.com/mundoruralpajaritos/)
 
-
 ### Productos de limpieza/aseo 🛀
 
 * [Cleanqueen.cl](https://cleanqueen.cl)
