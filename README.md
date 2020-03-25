@@ -75,6 +75,7 @@
 * [Supermercadodiez.cl](https://supermercadodiez.cl)
 * [Casadelacerveza.cl](https://casadelacerveza.cl)
 * [Tandem.wine](https://tandem.wine)
+* [Tamango.cl](https://tamango.cl/shop/)
 
 ### Café ☕️
 
