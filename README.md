@@ -17,6 +17,7 @@
 * [@despensapedidos](https://www.instagram.com/despensapedidos/)
 * [@mundoruralpajaritos](https://www.instagram.com/mundoruralpajaritos/)
 * [@labodeguitadelovalledor](https://www.instagram.com/labodeguitadelovalledor/)
+* [@laveguitadekeko](https://www.instagram.com/laveguitadekeko/)
 
 ### Huevos 🥚
 
@@ -67,6 +68,7 @@
 
 * [Protteina.com](https://protteina.com)
 * [@labodeguitaverde](https://www.instagram.com/labodeguitaverde)
+* [@nikol_ivo_caseros](https://www.instagram.com/nikol_ivo_caseros/)
 
 ### Queques 🍰
 
@@ -105,9 +107,10 @@
 
 * [Carboneros.cl](https://carboneros.cl)
 
-### Minimarket 🛒
+### Minimarket/Mercaderia 🛒
 
 * [Biroska.cl](https://www.biroska.cl/)
+* [@mercaderiaatucasa.cl](https://instagram.com/mercaderiaatucasa.cl)
 
 ### Pizza 🍕
 
