@@ -17,6 +17,19 @@
 * [@despensapedidos](https://www.instagram.com/despensapedidos/)
 * [@mundoruralpajaritos](https://www.instagram.com/mundoruralpajaritos/)
 * [@labodeguitadelovalledor](https://www.instagram.com/labodeguitadelovalledor/)
+* [@laveguitadekeko](https://www.instagram.com/laveguitadekeko/)
+* [@vega_italia_1850](https://www.instagram.com/vega_italia_1850/)
+
+### Minimarket/Mercaderia/Despensa 🛒
+
+* [Biroska.cl](https://www.biroska.cl/)
+* [@mercaderiaatucasa.cl](https://instagram.com/mercaderiaatucasa.cl)
+* [@mundoruralpajaritos](https://www.instagram.com/mundoruralpajaritos/)
+
+### Productos de limpieza/aseo 🛀
+
+* [Cleanqueen.cl](https://cleanqueen.cl)
+* [Incoludido.cl](https://incoludido.cl)
 
 ### Huevos 🥚
 
@@ -26,6 +39,9 @@
 ### Frutos Secos 🥜🌰
 
 * [@tostaduria_tomasso](https://www.instagram.com/tostaduria_tomasso)
+* [@thepower_offood](https://instagram.com/thepower_offood)
+* [@riwunsnacks](https://instagram.com/riwunsnacks)
+* [@da.oro](https://instagram.com/da.oro)
 
 ### Carne 🍖
 
@@ -33,6 +49,7 @@
 * [Carnesmanada.com](https://carnesmanada.com)
 * [Curacaribs.cl](https://curacaribs.cl)
 * [@costillasypunto](https://www.instagram.com/costillasypunto)
+* [Cecinas.com](https://www.cecinas.com)
 
 ### Pollo 🍖
 
@@ -57,11 +74,13 @@
 ### Charcuteria 🥓
 
 * [@losmora.charcuteria](https://www.instagram.com/losmora.charcuteria)
+* [Cecinas.com](https://www.cecinas.com)
 
 ### Plant based/vegano 🥦
 
 * [Protteina.com](https://protteina.com)
 * [@labodeguitaverde](https://www.instagram.com/labodeguitaverde)
+* [@nikol_ivo_caseros](https://www.instagram.com/nikol_ivo_caseros/)
 
 ### Queques 🍰
 
@@ -85,11 +104,6 @@
 
 * [@montecarmelocolmenares](https://www.instagram.com/montecarmelocolmenares)
 
-### Productos de limpieza/aseo 🛀
-
-* [Cleanqueen.cl](https://cleanqueen.cl)
-* [Incoludido.cl](https://incoludido.cl)
-
 ### Mascotas 🐶
 
 * [PuntoMascotas.cl](https://www.puntomascotas.cl/)
@@ -101,15 +115,13 @@
 
 * [Carboneros.cl](https://carboneros.cl)
 
-### Minimarket 🛒
+### Pizza 🍕
 
-* [Biroska.cl](https://www.biroska.cl/)
-
-### Pizza 🍕 
 * [Centralpizza.cl](https://www.centralpizza.cl/)
 * [Nolazzi.cl](https://www.nolazzi.cl/)
 
 ### Pan de queso 🥞🧀
+
 * [Grespan.cl](https://www.grespan.cl/)
 
 ---
