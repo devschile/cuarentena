@@ -49,6 +49,7 @@
 * [Curacaribs.cl](https://curacaribs.cl)
 * [@costillasypunto](https://www.instagram.com/costillasypunto)
 * [Cecinas.com](https://www.cecinas.com)
+* [Parrilleroslaligua.cl](https://parrilleroslaligua.cl/)
 
 ### Pollo 🍖
 
