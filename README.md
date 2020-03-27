@@ -49,10 +49,12 @@
 * [Curacaribs.cl](https://curacaribs.cl)
 * [@costillasypunto](https://www.instagram.com/costillasypunto)
 * [Cecinas.com](https://www.cecinas.com)
+* [Parrilleroslaligua.cl](https://parrilleroslaligua.cl/)
 
 ### Pollo 🍖
 
 * [Tiendaonline.tinajacura.com](https://tiendaonline.tinajacura.com)
+* [Chickenfactory.cl](https://www.chickenfactory.cl/)
 
 ### Pescado 🐠
 
@@ -80,6 +82,7 @@
 * [Protteina.com](https://protteina.com)
 * [@labodeguitaverde](https://www.instagram.com/labodeguitaverde)
 * [@nikol_ivo_caseros](https://www.instagram.com/nikol_ivo_caseros/)
+* [Dulcedimagio.com](https://dulcedimagio.com/)
 
 ### Queques 🍰
 
@@ -93,6 +96,7 @@
 * [Supermercadodiez.cl](https://supermercadodiez.cl)
 * [Casadelacerveza.cl](https://casadelacerveza.cl)
 * [Tandem.wine](https://tandem.wine)
+* [Tamango.cl](https://tamango.cl/shop/)
 
 ### Café ☕️
 
