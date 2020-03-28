@@ -55,6 +55,7 @@
 
 * [Tiendaonline.tinajacura.com](https://tiendaonline.tinajacura.com)
 * [Chickenfactory.cl](https://www.chickenfactory.cl/)
+* [Wingsandrings.cl](https://www.wingsandrings.cl/)
 
 ### Pescado 🐠
 
