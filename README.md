@@ -18,6 +18,7 @@
 * [@labodeguitadelovalledor](https://www.instagram.com/labodeguitadelovalledor/)
 * [@laveguitadekeko](https://www.instagram.com/laveguitadekeko/)
 * [@vega_italia_1850](https://www.instagram.com/vega_italia_1850/)
+* [@verde_fresa](https://www.instagram.com/verde_fresa/)
 
 ### Minimarket/Mercaderia/Despensa 🛒
 
@@ -67,6 +68,7 @@
 ### Pan 🍞
 
 * [Crust](https://www.instagram.com/crust_scl)
+* [Pan Mostacho](https://www.tienda.panmostacho.cl/pedir)
 
 ### Barras proteína 🍫
 
@@ -84,6 +86,7 @@
 * [@labodeguitaverde](https://www.instagram.com/labodeguitaverde)
 * [@nikol_ivo_caseros](https://www.instagram.com/nikol_ivo_caseros/)
 * [Dulcedimagio.com](https://dulcedimagio.com/)
+* [Wellstore.cl](https://wellstore.cl/)
 
 ### Queques 🍰
 
@@ -129,4 +132,6 @@
 
 ---
 
-¿Quieres aportar con un local? envíalo a huemul@devschile.cl
+¿Quieres aportar con un local? envíalo a huemul@devschile.cl. 
+
+Una iniciativa de [devsChile](https://www.devschile.cl) para que todos pasemos mejor por esta pandemia.
