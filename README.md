@@ -68,6 +68,7 @@
 ### Pan 🍞
 
 * [Crust](https://www.instagram.com/crust_scl)
+* [Pan Mostacho](https://www.tienda.panmostacho.cl/pedir)
 
 ### Barras proteína 🍫
 
