@@ -101,6 +101,7 @@
 * [Casadelacerveza.cl](https://casadelacerveza.cl)
 * [Tandem.wine](https://tandem.wine)
 * [Tamango.cl](https://tamango.cl/shop/)
+* [Cervezadiem.cl](https://www.cervezadiem.cl/)
 
 ### Café ☕️
 
