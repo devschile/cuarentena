@@ -1,6 +1,6 @@
 # Cuarentena
 
-## Servicios de delivery Santiago:
+## Servicios de delivery / entrega a domicilio en Santiago:
 
 ### Frutas y Verduras 🥒
 
@@ -130,6 +130,10 @@
 ### Pan de queso 🥞🧀
 
 * [Grespan.cl](https://www.grespan.cl/)
+
+### Ocio 🎮
+
+* [Neeks.cl](https://neeks.cl/)
 
 ---
 
