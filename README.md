@@ -87,6 +87,7 @@
 | 📝 | 🚚 | 🔍 |
 | ---|---|---|
 | [@nikol_ivo_caseros](https://www.instagram.com/nikol_ivo_caseros/) | Envío propio: $2500 a comunas en cuarentena. Otras comunas con mínimo: Renca, Maipú, PAC, San Miguel| Congelados y dulces |
+
 * [Protteina.com](https://protteina.com)
 * [Dulcedimagio.com](https://dulcedimagio.com/)
 * [Wellstore.cl](https://wellstore.cl/)
@@ -107,8 +108,9 @@
 * [Cervezadiem.cl](https://www.cervezadiem.cl/)
 
 ### Café ☕️
+
 | 📝 | 🚚 | 🔍 |
-| ----------|----------|----------|
+|---|---|---|
 | [Outletdelcafe.cl](https://outletdelcafe.cl) | Chilexpress, todo Chile. +Cornershop | café en grano |
 
 ### Miel 🍜
