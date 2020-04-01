@@ -1,6 +1,6 @@
 # Cuarentena
 
-## Servicios de delivery Santiago:
+## Servicios de delivery / entrega a domicilio en Santiago:
 
 ### Frutas y Verduras 🥒
 
@@ -18,6 +18,8 @@
 * [@labodeguitadelovalledor](https://www.instagram.com/labodeguitadelovalledor/)
 * [@laveguitadekeko](https://www.instagram.com/laveguitadekeko/)
 * [@vega_italia_1850](https://www.instagram.com/vega_italia_1850/)
+* [@verde_fresa](https://www.instagram.com/verde_fresa/)
+* [@delivery.fresh](https://instagram.com/delivery.fresh)
 
 ### Minimarket/Mercaderia/Despensa 🛒
 
@@ -56,6 +58,7 @@
 
 * [Tiendaonline.tinajacura.com](https://tiendaonline.tinajacura.com)
 * [Chickenfactory.cl](https://www.chickenfactory.cl/)
+* [Wingsandrings.cl](https://www.wingsandrings.cl/)
 
 ### Pescado 🐠
 
@@ -67,6 +70,7 @@
 ### Pan 🍞
 
 * [Crust](https://www.instagram.com/crust_scl)
+* [Pan Mostacho](https://www.tienda.panmostacho.cl/pedir)
 
 ### Barras proteína 🍫
 
@@ -84,6 +88,7 @@
 * [@labodeguitaverde](https://www.instagram.com/labodeguitaverde)
 * [@nikol_ivo_caseros](https://www.instagram.com/nikol_ivo_caseros/)
 * [Dulcedimagio.com](https://dulcedimagio.com/)
+* [Wellstore.cl](https://wellstore.cl/)
 
 ### Queques 🍰
 
@@ -98,6 +103,7 @@
 * [Casadelacerveza.cl](https://casadelacerveza.cl)
 * [Tandem.wine](https://tandem.wine)
 * [Tamango.cl](https://tamango.cl/shop/)
+* [Cervezadiem.cl](https://www.cervezadiem.cl/)
 
 ### Café ☕️
 
@@ -127,6 +133,12 @@
 
 * [Grespan.cl](https://www.grespan.cl/)
 
+### Ocio 🎮
+
+* [Neeks.cl](https://neeks.cl/)
+
 ---
 
-¿Quieres aportar con un local? envíalo a huemul@devschile.cl
+¿Quieres aportar con un local? envíalo a huemul@devschile.cl. 
+
+Una iniciativa de [devsChile](https://www.devschile.cl) para que todos pasemos mejor por esta pandemia.
