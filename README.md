@@ -84,9 +84,10 @@
 
 ### Plant based/vegano 🥦
 
+| 📝 | 🚚 | 🔍 |
+| ----------|----------|------|
+| [@nikol_ivo_caseros](https://www.instagram.com/nikol_ivo_caseros/) | Envío propio: $2500 a comunas en cuarentena. Otras comunas con mínimo: Renca, Maipú, PAC, San Miguel| Congelados y dulces |
 * [Protteina.com](https://protteina.com)
-* [@labodeguitaverde](https://www.instagram.com/labodeguitaverde)
-* [@nikol_ivo_caseros](https://www.instagram.com/nikol_ivo_caseros/)
 * [Dulcedimagio.com](https://dulcedimagio.com/)
 * [Wellstore.cl](https://wellstore.cl/)
 
@@ -106,8 +107,9 @@
 * [Cervezadiem.cl](https://www.cervezadiem.cl/)
 
 ### Café ☕️
-
-* [Outletdelcafe.cl](https://outletdelcafe.cl)
+| 📝 | 🚚 | 🔍 |
+| ----------|----------|----------|
+| [Outletdelcafe.cl](https://outletdelcafe.cl) | Chilexpress, todo Chile. +Cornershop | café en grano |
 
 ### Miel 🍜
 
@@ -139,6 +141,6 @@
 
 ---
 
-¿Quieres aportar con un local? envíalo a huemul@devschile.cl. 
+¿Quieres aportar con un local? envíalo a huemul@devschile.cl.
 
 Una iniciativa de [devsChile](https://www.devschile.cl) para que todos pasemos mejor por esta pandemia.
