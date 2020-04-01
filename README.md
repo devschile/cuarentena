@@ -19,6 +19,7 @@
 * [@laveguitadekeko](https://www.instagram.com/laveguitadekeko/)
 * [@vega_italia_1850](https://www.instagram.com/vega_italia_1850/)
 * [@verde_fresa](https://www.instagram.com/verde_fresa/)
+* [@delivery.fresh](https://instagram.com/delivery.fresh)
 
 ### Minimarket/Mercaderia/Despensa 🛒
 
@@ -30,6 +31,7 @@
 
 * [Cleanqueen.cl](https://cleanqueen.cl)
 * [Incoludido.cl](https://incoludido.cl)
+* [Artvlom](https://www.instagram.com/artvlom/)
 
 ### Huevos 🥚
 
