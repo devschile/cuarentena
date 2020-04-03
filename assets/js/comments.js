@@ -80,7 +80,7 @@ document.addEventListener('DOMContentLoaded', () => {
     `,
     props: {
       comments: {
-        default: {},
+        default: () => {},
         type: Object,
       },
       slug: {

@@ -30,6 +30,7 @@
   background: #fff;
   border: 1px solid #ccc;
   border-radius: 10px;
+  z-index: 1;
 }
 
 .comments-modal-close {
