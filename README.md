@@ -66,7 +66,7 @@
 
 | 📝 | 🚚 | 🔍 |
 | ---|---|---|
-| [Pollosro/](https://www.instagram.com/pollosro/) | Región Metropolitana | Pollo, huevos, hamburguesas |
+| [Pollosro](https://www.instagram.com/pollosro/) | Región Metropolitana | Pollo, huevos, hamburguesas |
 
 ### Pescado 🐠
 
