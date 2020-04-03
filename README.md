@@ -27,6 +27,10 @@
 * [@mercaderiaatucasa.cl](https://instagram.com/mercaderiaatucasa.cl)
 * [@mundoruralpajaritos](https://www.instagram.com/mundoruralpajaritos/)
 
+| 📝 | 🚚 | 🔍 |
+| ---|---|---|
+| [Pehuén Alimentos](https://www.comercialpehuen.cl/) | Región Metropolitana ( > $48.000) Quinta y Sexta Región (> 240.000) | Abarrotes, frutos secos, verduras |
+
 ### Productos de limpieza/aseo 🛀
 
 * [Cleanqueen.cl](https://cleanqueen.cl)
@@ -59,6 +63,10 @@
 * [Tiendaonline.tinajacura.com](https://tiendaonline.tinajacura.com)
 * [Chickenfactory.cl](https://www.chickenfactory.cl/)
 * [Wingsandrings.cl](https://www.wingsandrings.cl/)
+
+| 📝 | 🚚 | 🔍 |
+| ---|---|---|
+| [Pollosro](https://www.instagram.com/pollosro/) | Región Metropolitana | Pollo, huevos, hamburguesas |
 
 ### Pescado 🐠
 
