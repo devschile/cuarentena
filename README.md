@@ -30,6 +30,7 @@
 | 📝 | 🚚 | 🔍 |
 | ---|---|---|
 | [Pehuén Alimentos](https://www.comercialpehuen.cl/) | Región Metropolitana ( > $48.000) Quinta y Sexta Región (> 240.000) | Abarrotes, frutos secos, verduras |
+| [Supermarket Express](https://www.instagram.com/supermarket_express/) [WhatsApp](https://wa.me/56972430386){:.skip-review} | Delivery gratis para Providencia, Ñuñoa, Las Condes, Santiago Centro, Chicureo. Entregas en menos de 60 minutos | Efectivo, Redcompra, Transferencia |
 
 ### Productos de limpieza/aseo 🛀
 
@@ -95,6 +96,7 @@
 | 📝 | 🚚 | 🔍 |
 | ---|---|---|
 | [@nikol_ivo_caseros](https://www.instagram.com/nikol_ivo_caseros/) | Envío propio: $2500 a comunas en cuarentena. Otras comunas con mínimo: Renca, Maipú, PAC, San Miguel| Congelados y dulces |
+| [@veganvega_](https://www.instagram.com/veganvega_/) [WhatsApp](https://wa.me/56941524136){:.skip-review} | envío propio | quesos, dulces, pan y otros productos veganos |
 
 * [Protteina.com](https://protteina.com)
 * [Dulcedimagio.com](https://dulcedimagio.com/)
