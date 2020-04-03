@@ -4,6 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
       <form @submit.prevent="submitForm" class="comment-form">
         <input class="comment-form-input" type="text" required v-model="name" placeholder="Nombre">
         <input class="comment-form-input" type="email" required v-model="email" placeholder="Email (no será mostrado)">
+        <input class="comment-form-input" type="text" v-model="commune" placeholder="Comuna">
         <textarea class="comment-form-input" required v-model="message" placeholder="Comentario" />
         <p v-if="loading && !success">Enviando... no cierres esta ventana.</p>
         <p v-else-if="!loading && success">Mensaje enviado!</p>
@@ -22,6 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
         name: null,
         email: null,
         message: null,
+        commune: null,
         loading: false,
         success: false,
         error: false,
@@ -39,6 +41,7 @@ document.addEventListener('DOMContentLoaded', () => {
         queryParams.append('options[slug]', this.slug);
         queryParams.append('fields[name]', this.name);
         queryParams.append('fields[email]', this.email);
+        queryParams.append('fields[commune]', this.commune);
         queryParams.append('fields[message]', this.message);
 
         axios
