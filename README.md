@@ -123,7 +123,7 @@
 * [PuntoMascotas.cl](https://www.puntomascotas.cl/)
 * [BestForPets.cl](https://bestforpets.cl/tienda/)
 * [TiendaPet.cl](https://www.tiendapet.cl/)
-* [@dogatpetmarket](https://www.instagram.com/dogatpetmarket) - [web](https://www.dogat.cl)
+* [@dogatpetmarket](https://www.instagram.com/dogatpetmarket) - [web](https://www.dogat.cl){:.skip-review}
 
 ### Carbón 🥩
 
@@ -146,4 +146,4 @@
 
 ¿Quieres aportar con un local? envíalo a huemul@devschile.cl.
 
-Una iniciativa de [devsChile](https://www.devschile.cl) para que todos pasemos mejor por esta pandemia.
+Una iniciativa de [devsChile](https://www.devschile.cl){:.skip-review} para que todos pasemos mejor por esta pandemia.
