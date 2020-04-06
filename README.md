@@ -117,12 +117,13 @@
 * [Tamango.cl](https://tamango.cl/shop/)
 * [Cervezadiem.cl](https://www.cervezadiem.cl/)
 
-### Café ☕️
+### Café / Mate ☕️
 
 | 📝 | 🚚 | 🔍 |
 |---|---|---|
 | [Outletdelcafe.cl](https://outletdelcafe.cl) | Chilexpress, todo Chile. +Cornershop | café en grano |
 | [Mokha Bunn](https://www.instagram.com/mokhabunn/) | Despacho gratis a partir de 2 bolsas en Ñunoa, Providencia, Las Condes, Vitacura, La Reina y Lo Barnechea. | Café de Yemen, cafeteras manuales, accesorios, filtros |
+| [mimate.cl](https://www.mimate.cl/) | Despacho express compra antes de 11:30am y recibe el mismo día - Región Metropolitana | Yerba Mate |
 
 ### Miel 🍜
 
