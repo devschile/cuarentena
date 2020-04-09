@@ -30,7 +30,7 @@
 | 📝 | 📞 | 🚚 | 🔍 |
 | ---|---|---|---|
 | [Pehuén Alimentos](https://www.comercialpehuen.cl/) | - | Región Metropolitana ( > $48.000) Quinta y Sexta Región (> 240.000) | Abarrotes, frutos secos, verduras |
-| [Supermarket Express](https://www.instagram.com/supermarket_express/) | [WhatsApp](https://wa.me/56972430386) |  Delivery gratis para Providencia, Ñuñoa, Las Condes, Santiago Centro, Chicureo. Entregas en menos de 60 minutos | Efectivo, Redcompra, Transferencia |
+| [Supermarket Express](https://www.instagram.com/supermarket_express/) | [WhatsApp](https://wa.me/56972430386){:.skip-review} |  Delivery gratis para Providencia, Ñuñoa, Las Condes, Santiago Centro, Chicureo. Entregas en menos de 60 minutos | Efectivo, Redcompra, Transferencia |
 
 ### Productos de limpieza/aseo 🛀
 
@@ -42,6 +42,7 @@
 
 * [Huevoslacastellana.com](https://huevoslacastellana.com)
 * [@agricolachada](https://www.instagram.com/agricolachada)
+* [@huevossanrosendo](https://www.instagram.com/huevossanrosendo)
 
 ### Frutos Secos 🥜🌰
 
@@ -59,6 +60,9 @@
 * [Cecinas.com](https://www.cecinas.com)
 * [Parrilleroslaligua.cl](https://parrilleroslaligua.cl/)
 * [Mady's BBQ](https://www.instagram.com/madysbbq03/)
+* [Corte Criollo](https://www.instagram.com/rincondelprofesor)
+* [Fundo El Reinal](https://www.elreinal.cl)
+* [Corrales del Sur](https://tiendacorrales.cl)
 
 ### Pollo 🍖
 
@@ -76,6 +80,7 @@
 * [Delmuelle.cl](https://delmuelle.cl)
 * [@seadelik](https://www.instagram.com/seadelik)
 * [Conagallas.cl](https://conagallas.cl)
+* [FishBox](https://fishboxchile.cl)
 
 ### Pan 🍞
 
@@ -97,7 +102,7 @@
 | 📝 | 📞 | 🚚 | 🔍 |
 | ---|---|---|---|
 | [`@nikol_ivo_caseros`](https://www.instagram.com/nikol_ivo_caseros/) | - | Envío propio: $2500 a comunas en cuarentena. Otras comunas con mínimo: Renca, Maipú, PAC, San Miguel| Congelados y dulces |
-| [@veganvega_](https://www.instagram.com/veganvega_/) | [WhatsApp](https://wa.me/56941524136) | envío propio | quesos, dulces, pan y otros productos veganos |
+| [@veganvega_](https://www.instagram.com/veganvega_/) | [WhatsApp](https://wa.me/56941524136){:.skip-review} | envío propio | quesos, dulces, pan y otros productos veganos |
 
 * [Protteina.com](https://protteina.com)
 * [Dulcedimagio.com](https://dulcedimagio.com/)
@@ -117,6 +122,7 @@
 * [Tandem.wine](https://tandem.wine)
 * [Tamango.cl](https://tamango.cl/shop/)
 * [Cervezadiem.cl](https://www.cervezadiem.cl/)
+* [La Barra CCU](http://labarra.cl/)
 
 ### Café / Mate ☕️
 
