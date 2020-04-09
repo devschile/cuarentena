@@ -42,6 +42,7 @@
 
 * [Huevoslacastellana.com](https://huevoslacastellana.com)
 * [@agricolachada](https://www.instagram.com/agricolachada)
+* [@huevossanrosendo](https://www.instagram.com/huevossanrosendo)
 
 ### Frutos Secos 🥜🌰
 
@@ -58,6 +59,9 @@
 * [@costillasypunto](https://www.instagram.com/costillasypunto)
 * [Cecinas.com](https://www.cecinas.com)
 * [Parrilleroslaligua.cl](https://parrilleroslaligua.cl/)
+* [Corte Criollo](https://www.instagram.com/rincondelprofesor)
+* [Fundo El Reinal](https://www.elreinal.cl)
+* [Corrales del Sur](https://tiendacorrales.cl)
 
 ### Pollo 🍖
 
@@ -75,6 +79,7 @@
 * [Delmuelle.cl](https://delmuelle.cl)
 * [@seadelik](https://www.instagram.com/seadelik)
 * [Conagallas.cl](https://conagallas.cl)
+* [FishBox](https://fishboxchile.cl)
 
 ### Pan 🍞
 
@@ -116,6 +121,7 @@
 * [Tandem.wine](https://tandem.wine)
 * [Tamango.cl](https://tamango.cl/shop/)
 * [Cervezadiem.cl](https://www.cervezadiem.cl/)
+* [La Barra CCU](http://labarra.cl/)
 
 ### Café / Mate ☕️
 
