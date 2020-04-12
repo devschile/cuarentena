@@ -55,7 +55,7 @@
 | 📝 | 📞 | 🚚 | 🔍 |
 | ---|---|---|---|
 |[Frutos Secos Sobre Ruedas](https://www.instagram.com/frutos_secos_sobre_ruedas/)|-|RM: Algunas comunas con despacho gratuito sujeto al monto del pedido.|Frutos secos despachados sobre ruedas :bike: cero huella de carbono|
-|[@tostaduria_tomasso](https://www.instagram.com/tostaduria_tomasso)|-|RM: Sobre 35.000 despacho gratuito, si no 3500, y a regiones el valor dependerá del peso y distancia|Frutos secos, deshidratados, semillas,aceites y harinas |
+|[@thepowerfoods](https://www.instagram.com/thepowerfoods)|-|RM: Sobre 35.000 despacho gratuito, si no 3500, y a regiones el valor dependerá del peso y distancia|Frutos secos, deshidratados, semillas,aceites y harinas |
 |[@tostaduria_tomasso](https://www.instagram.com/tostaduria_tomasso)|-|-|-|
 |[@thepower_offood](https://instagram.com/thepower_offood)|-|-|-|
 |[@riwunsnacks](https://instagram.com/riwunsnacks)|-|-|-|
