@@ -33,6 +33,7 @@
 |[@mercaderiaatucasa.cl](https://instagram.com/mercaderiaatucasa.cl)|-|-|-|
 |[@mundoruralpajaritos](https://www.instagram.com/mundoruralpajaritos/)|-|-|-|
 |[mercadito.ambulante](https://www.instagram.com/mercadito.ambulante/)|[WhatsApp](https://wa.me/56977584735){:.skip-review}|RM: Gratuito en Ñuñoa,Providencia, Las Condes y Vitacura, demás comunas consultar.|Huevos de gallinas libres, Miel,Queso|
+|[Laferiante.cl](https://laferiante.cl/shop/)|laferiante.cl@gmail.com, (+56 9) 6370 7587|Llegamos a las siguientes comunas: Vitacura, Las Condes, Providencia, Lo Barnechea, Ñuñoa y La Reina. Despachamos Lunes, Miércoles, Viernes|-|
 
 ### Productos de limpieza/aseo 🛀
 
@@ -151,7 +152,7 @@
 
 | 📝 | 🚚 | 🔍 |
 |---|---|---|
-|[Outletdelcafe.cl](https://outletdelcafe.cl) | Chilexpress, todo Chile. +Cornershop | café en grano |
+|[Outletdelcafe.cl](https://outletdelcafe.cl) | Chilexpress, todo Chile + Cornershop | café en grano |
 |[Mokha Bunn](https://www.instagram.com/mokhabunn/) | Despacho gratis a partir de 2 bolsas en Ñunoa, Providencia, Las Condes, Vitacura, La Reina y Lo Barnechea. | Café de Yemen, cafeteras manuales, accesorios, filtros |
 |[mimate.cl](https://www.mimate.cl/) | Despacho express compra antes de 11:30am y recibe el mismo día - Región Metropolitana | Yerba Mate |
 
