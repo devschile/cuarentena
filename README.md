@@ -148,6 +148,7 @@
 |[Tamango.cl](https://tamango.cl/shop/)|-|-|-|
 |[Cervezadiem.cl](https://www.cervezadiem.cl/)|-|-|-|
 |[La Barra CCU](http://labarra.cl/)|-|-|-|
+|[Las Pipas de Einstein](https://laspipasdeeinstein.cl/catalogo/)|-|-|-|
 
 ### Café / Mate ☕️
 
